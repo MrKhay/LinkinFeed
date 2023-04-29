@@ -50,7 +50,7 @@ class Data {
         tags:
             "#freedom #possibilities #beauty #personaldevelopment #personalgrowth",
         description:
-            "I paid \$100 for this photo on top of the Burj Khalifa.What a waste of money Many people won’t understand why",
+            "I paid \$100 for this photo on top of the Burj Khalifa.What a waste of money Many people won\’t understand why",
         isVideoPost: false,
         comments: "500",
         video: "",
